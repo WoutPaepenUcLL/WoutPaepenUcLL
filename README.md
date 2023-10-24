@@ -48,6 +48,23 @@
 <a href="https://www.github.com/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
+<a href="https://www.docker.io">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+<a href="https://www.ubuntu.com">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</a>
+<a href="https://blender.org">
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+</a>
+<a href="https://notion.so">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
+
+
 
 ## Stats 📊
 [![GitHub Streak](https://streak-stats.demolab.com?user=WoutPaepenUcLL&theme=tokyonight-duo&hide_border=true&locale=nl&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
