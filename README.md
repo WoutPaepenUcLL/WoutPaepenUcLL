@@ -54,7 +54,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=WoutPaepenUcLL&theme=tokyonight-duo&hide_border=true&locale=nl&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## Top Languages 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoutPaepenUcLL&layout=compact&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoutPaepenUcLL&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fun fact ⚡
 - 🎢 I love Theme Parks
