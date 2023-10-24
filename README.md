@@ -20,6 +20,21 @@
 - 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript, SQL, ...
 
 ## Languages and Tools 🛠️
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML Badge](https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS Badge](https://img.shields.io/badge/-CSS-F05040?&style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.Postgres.com/)
+[![React Badge](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://www.react.com/)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://www.git.com/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white)](https://www.github.com/)
+[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white)](https://www.docker.io)
+[![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
+[![Blender Badge](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://blender.org)
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)](https://notion.so)
+<!-- 
 <div align="center">
 <a href="https://www.java.com/">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -62,7 +77,7 @@
 </a>
 <a href="https://notion.so">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</a>
+</a> -->
 
 
 
