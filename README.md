@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wout-paepen/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wout_paepen/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/eftelking?si=8a691891fd234179)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-239120?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/eftelking?si=8a691891fd234179)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://discord.com/users/227822834741805056)
     
     
