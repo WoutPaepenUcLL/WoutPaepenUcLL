@@ -13,7 +13,7 @@
 
 
 ## About me 🙋‍♂️
-- 🏫 I'm 20 years old
+- 🏫 I'm 21 years old
 - 🏠 I live in Belgium 🇧🇪
 - 📚 I'm studying Applied Computer Science
 - 🎓 I'm a student at Uc Leuven-Limburg
