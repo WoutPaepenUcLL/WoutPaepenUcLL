@@ -17,7 +17,7 @@
 - 🏠 I live in Belgium 🇧🇪
 - 📚 I'm studying Applied Computer Science
 - 🎓 I'm a student at Uc Leuven-Limburg
-- 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript, SQL, ...
+- 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript, SQL, D3.js ...
 
 ## Languages and Tools 🛠️
 <!-- all languages in one column | all tools in one column |  -->
